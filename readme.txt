@@ -5,3 +5,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 git diff HEAD -- readme.txt 
 git diff HEAD -- readme.txt 
+git diff HEAD -- readme.txt 
+git diff HEAD -- readme.txt 
